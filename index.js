@@ -22,5 +22,5 @@ function switchWords() {
 switchWords()
 
 function goToAnswerPage() {
-   window.location.href = "https://thiagobrg60.github.io/answer.html"
+   window.location.href = "https://thiagobrg60.github.io/pedido-cool/answer.html"
 }
